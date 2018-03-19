@@ -5,7 +5,7 @@ package com.ht.factory;
  * @auth Qiu
  * @time 2018/3/19
  **/
-public class TestFactory {
+public class TestHair {
 
     public static void main(String[] args) {
 
