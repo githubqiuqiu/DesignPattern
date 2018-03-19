@@ -4,7 +4,7 @@ package com.ht.single;
  * @auth Qiu
  * @time 2018/3/19
  **/
-public class Test {
+public class TestSingleton {
 
     public static void main(String[] args) {
         //饿汉模式
